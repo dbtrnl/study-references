@@ -1,4 +1,16 @@
-## Computer Enginnering in general
+# study-references
+
+Repo with somewhat curated content about programming languages and computer science in general
+It will be constantly updated and improved.
+
+---
+
+## Index 
+- [] TO-DO
+
+---
+
+### Computer Science in general
 
 P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/)
 - Basics about memory, how processors work, etc
@@ -18,7 +30,7 @@ P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/ca
 
 ---
 
-## Go
+### Go
 
 P Mihaylov - [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/)
   - [Introduction](https://pmihaylov.com/grpc-with-go-intro/)
@@ -29,11 +41,9 @@ P Mihaylov - [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-cras
 
 ---
 
-## Java
+### Java
 
-#### [Pedro Cavalero](https://allmylinks.com/pedro-cavalero)
-
-Interesting Linkedin posts:
+Interesting short Linkedin posts (in Portuguese) by [Pedro Cavalero](https://allmylinks.com/pedro-cavalero)
 - [A versões do Java](https://www.linkedin.com/posts/pedrocavalero_vamos-relembrar-as-vers%C3%B5es-do-java-em-activity-6779779296828391424-ayf8/)
 - [Funcionalidades do Java 5](https://www.linkedin.com/posts/pedrocavalero_nessa-semana-de-lan%C3%A7amento-do-java-16-vamos-activity-6780504142789021696-8qZc)
 - [Curiosidades do Java 8](https://www.linkedin.com/posts/pedrocavalero_java-java8-java11-activity-6781228912513978368-Vqbq)
