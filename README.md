@@ -1,12 +1,12 @@
 # study-references
 
-Repo with somewhat curated content about programming languages and computer science in general
-It will be constantly updated and improved.
+- Repo with somewhat curated content about programming languages and computer science in general
+- It will be constantly updated and improved.
 
 ---
 
 ## Index 
-- [] TO-DO
+- [ ] TO-DO
 
 ---
 
