@@ -1,4 +1,4 @@
-# study-references
+## study-references
 
 - Repo with somewhat curated content about programming languages and computer science in general
 - It will be constantly updated and improved.
@@ -6,7 +6,12 @@
 ---
 
 ## Index 
-- [ ] TO-DO
+- [Computer Science in general](#computer-science-in-general)
+- [Project Ideas](#project-ideas)
+- [Language specific stuff](#language-specific-stuff)
+  - [Go](#go)
+  - [Java](#java)
+    - [Other Java stuff](#other-java-stuff)
 
 ---
 
@@ -30,9 +35,32 @@ P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/ca
 
 ---
 
+### Project Ideas
+  - Out of ideas? Don't know where to start? Check out the links below.
+
+[Javascript Projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
+- From FreeCodeCamp.org
+
+  - Beginner projects with HTML, CSS and vanilla Javascript/React/Typescript.
+
+[app-ideas](https://github.com/florinpop17/app-ideas)
+- From florinpop17 @ Github
+
+  - Beginner, intermediate and advanced project ideas;
+  - Shows a project description/user stories and general guidelines for the project;
+  - You must implement everything yourself.
+
+---
+
+## Language specific stuff
+
+---
+
 ### Go
 
-P Mihaylov - [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/)
+[gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/)
+- From Preslav Mihaylov @ pmihaylov.com
+
   - [Introduction](https://pmihaylov.com/grpc-with-go-intro/)
   - [Service Schemas](https://pmihaylov.com/grpc-with-go-schemas/)
   - [Basic RPC Routines](https://pmihaylov.com/grpc-with-go-basic-rpcs/)
@@ -43,20 +71,21 @@ P Mihaylov - [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-cras
 
 ### Java
 
-Interesting short Linkedin posts (in Portuguese) by [Pedro Cavalero](https://allmylinks.com/pedro-cavalero)
-- [A versões do Java](https://www.linkedin.com/posts/pedrocavalero_vamos-relembrar-as-vers%C3%B5es-do-java-em-activity-6779779296828391424-ayf8/)
-- [Funcionalidades do Java 5](https://www.linkedin.com/posts/pedrocavalero_nessa-semana-de-lan%C3%A7amento-do-java-16-vamos-activity-6780504142789021696-8qZc)
-- [Curiosidades do Java 8](https://www.linkedin.com/posts/pedrocavalero_java-java8-java11-activity-6781228912513978368-Vqbq)
-- [Novidades do Java 11](https://www.linkedin.com/posts/pedrocavalero_java-java8-java11-activity-6781953446372229120-rjgb)
-- [O que são classes e objetos?](https://www.linkedin.com/posts/pedrocavalero_java-java8-java11-activity-6782316164790943744-oTiJ)
-- [O que é Spring Boot?](https://www.linkedin.com/posts/pedrocavalero_springboot-java-springframework-activity-6776905016545443841-cmso)
-- [O que é Spring Boot?](https://www.linkedin.com/posts/pedrocavalero_springboot-java-springframework-activity-6776904954658488320-xhws)
+Interesting short Linkedin posts (in Portuguese)
+- From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 
----
+  - [A versões do Java](https://www.linkedin.com/posts/pedrocavalero_vamos-relembrar-as-vers%C3%B5es-do-java-em-activity-6779779296828391424-ayf8/)
+  - [Funcionalidades do Java 5](https://www.linkedin.com/posts/pedrocavalero_nessa-semana-de-lan%C3%A7amento-do-java-16-vamos-activity-6780504142789021696-8qZc)
+  - [Curiosidades do Java 8](https://www.linkedin.com/posts/pedrocavalero_java-java8-java11-activity-6781228912513978368-Vqbq)
+  - [Novidades do Java 11](https://www.linkedin.com/posts/pedrocavalero_java-java8-java11-activity-6781953446372229120-rjgb)
+  - [O que são classes e objetos?](https://www.linkedin.com/posts/pedrocavalero_java-java8-java11-activity-6782316164790943744-oTiJ)
+  - [O que é Spring Boot?](https://www.linkedin.com/posts/pedrocavalero_springboot-java-springframework-activity-6776905016545443841-cmso)
+  - [O que é Spring Boot?](https://www.linkedin.com/posts/pedrocavalero_springboot-java-springframework-activity-6776904954658488320-xhws)
 
-#### Other links
+#### Other Java stuff
 
 [Springboot e Docker](https://carloshenriquereis-17318.medium.com/spring-boot-e-docker-2cafaa0f3e1a)
-- Deploy of a Spring Boot application using Tesseract OCR to return the text in a given image.
+  - Deploy of a Spring Boot application using Tesseract OCR to return the text in a given image.
 
 [String Performance Hints](https://www.baeldung.com/java-string-performance)
+  - Analysing the performance of string methods.
