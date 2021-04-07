@@ -20,6 +20,7 @@ It will be constantly updated and improved.
 
 P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/)  
 Basics about memory, how processors work, etc...  
+
 12 Articles in total:  
   - [Introduction to Computer Memory](https://pmihaylov.com/intro-to-computer-memory/)
   - [How does the processor work](https://pmihaylov.com/how-does-the-processor-work/)
@@ -59,7 +60,7 @@ From florinpop17 @ Github
 
 ### Information Security
 
-[What is a Buffer Overflow attack - and how to stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)
+[What is a Buffer Overflow attack - and how to stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)  
 [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 
 
