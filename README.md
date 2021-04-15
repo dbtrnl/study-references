@@ -23,11 +23,11 @@ It will be constantly updated and improved.
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#index">↥ back to top</a></b>
 </div>
-<br/>
 
 ## Computer Science in general
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/)  
 Basics about memory, how processors work, etc...  
