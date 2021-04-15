@@ -7,21 +7,17 @@ It will be constantly updated and improved.
 
 ## Index 
 - [Computer Science in general](#computer-science-in-general)
-  - [Zines](#zines)
-  
+  * [Zines](#zines)
 - [Project Ideas](#project-ideas)
-
 - [InfoSec](#infosec)
-  - [Forensics](#forensics)
-  
+  * [Forensics](#forensics)
 - [Tools related](#tools-related)
-  - [Docker](#docker)
-  
+  * [Docker](#docker)
 - [Language specific stuff](#language-specific-stuff)
-  - [Go](#go)
-  - [Java](#java)
-    - [Other Java stuff](#other-java-stuff)
-  - [Javascript](#javascript)
+  * [Go](#go)
+  * [Java](#java)
+    + [Other Java stuff](#other-java-stuff)
+  * [Javascript](#javascript)
 
 ---
 
