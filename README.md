@@ -21,11 +21,6 @@ It will be constantly updated and improved.
 
 ---
 
-<br/>
-<div align="right">
-    <b><a href="#index">↥ back to top</a></b>
-</div>
-
 ## Computer Science in general
 <div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
@@ -47,6 +42,8 @@ Basics about memory, how processors work, etc...
   - [The build process of programming languages](https://pmihaylov.com/the-build-process-of-programming-languages/)
 
 ### Zines
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+
 - [Wizard zines](https://wizardzines.com)
   - Zines about specific topics in computer science, networking, etc...
 - [Free posters](https://wizardzines.com/#posters)
@@ -54,6 +51,8 @@ Basics about memory, how processors work, etc...
 ---
 
 ## Project Ideas
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+
 Out of ideas? Don't know where to start? Check out the links below.
 
 [Javascript Projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)  
@@ -70,6 +69,7 @@ From florinpop17 @ Github
 ---
 
 ## Infosec
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 [What is a Buffer Overflow attack - and how to stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)  
 [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
@@ -82,6 +82,7 @@ From florinpop17 @ Github
 ---
 
 ## Tools related
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 ### Docker
 #### Docker Security
@@ -92,10 +93,12 @@ From [Fran Lauriano](https://www.linkedin.com/in/franlauriano/)
 ---
 
 ## Language specific stuff
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 ---
 
 ### Go
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/)  
 From Preslav Mihaylov @ pmihaylov.com
@@ -109,6 +112,7 @@ From Preslav Mihaylov @ pmihaylov.com
 ---
 
 ### Java
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 Interesting short Linkedin posts (in Portuguese)  
 From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
@@ -122,6 +126,7 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
   - [O que é Spring Boot?](https://www.linkedin.com/posts/pedrocavalero_springboot-java-springframework-activity-6776904954658488320-xhws)
 
 #### Other Java stuff
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 [Springboot e Docker](https://carloshenriquereis-17318.medium.com/spring-boot-e-docker-2cafaa0f3e1a)
   - Deploy of a Spring Boot application using Tesseract OCR to return the text in a given image.
@@ -132,6 +137,8 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 ---
 
 ### Javascript
+<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+
 #### Linting
 
 [JavaScript Standard Style: melhores práticas em JS](https://blog.geekhunter.com.br/javascript-standard-style)
