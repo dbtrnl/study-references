@@ -25,27 +25,29 @@ It will be constantly updated and improved.
 <div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/)  
-Basics about memory, how processors work, etc...  
+Basics about memory, how processors work, etc...
+Must read for anyone curious about how stuff works in the lower levels.  
 
-12 Articles in total:  
-  - [Introduction to Computer Memory](https://pmihaylov.com/intro-to-computer-memory/)
-  - [How does the processor work](https://pmihaylov.com/how-does-the-processor-work/)
-  - [Introduction to binary numbers](https://pmihaylov.com/intro-binary-numbers/)
-  - [Negative binary numbers](https://pmihaylov.com/negative-binary-numbers/)
-  - [Floating point numbers](https://pmihaylov.com/floating-point-numbers/)
-  - [How the binary nature of computers affects our data types](https://pmihaylov.com/how-does-binary-affect-data-types/)
-  - [What you need to know about character sets and encoding](https://pmihaylov.com/character-sets-and-encoding/)
-  - [Introduction to bitwise operations](https://pmihaylov.com/bitwise-operations/)
-  - [What you don’t know about sorting algorithms](https://pmihaylov.com/sorting-algorithms/)
-  - [Understanding Standard Input and Output](https://pmihaylov.com/standard-io/)
-  - [Languages High and Low](https://pmihaylov.com/languages-high-and-low/)
-  - [The build process of programming languages](https://pmihaylov.com/the-build-process-of-programming-languages/)
+12 Articles in total (in the order they were posted):  
+  + [Introduction to Computer Memory](https://pmihaylov.com/intro-to-computer-memory/)
+  + [How does the processor work](https://pmihaylov.com/how-does-the-processor-work/)
+  + [Introduction to binary numbers](https://pmihaylov.com/intro-binary-numbers/)
+  + [Negative binary numbers](https://pmihaylov.com/negative-binary-numbers/)
+  + [Floating point numbers](https://pmihaylov.com/floating-point-numbers/)
+  + [How the binary nature of computers affects our data types](https://pmihaylov.com/how-does-binary-affect-data-types/)
+  + [What you need to know about character sets and encoding](https://pmihaylov.com/character-sets-and-encoding/)
+  + [Introduction to bitwise operations](https://pmihaylov.com/bitwise-operations/)
+  + [What you don’t know about sorting algorithms](https://pmihaylov.com/sorting-algorithms/)
+  + [Understanding Standard Input and Output](https://pmihaylov.com/standard-io/)
+  + [Languages High and Low](https://pmihaylov.com/languages-high-and-low/)
+  + [The build process of programming languages](https://pmihaylov.com/the-build-process-of-programming-languages/)
 
 ### Zines
 <div align="right"><b><a href="#index">↥ back to top</a></b></div>
 
 - [Wizard zines](https://wizardzines.com)
-  - Zines about specific topics in computer science, networking, etc...
+  + Zines about specific topics in computer science, networking, etc...
+    Some are free (see below) but most are paid.
 - [Free posters](https://wizardzines.com/#posters)
 
 ---
@@ -63,8 +65,9 @@ From FreeCodeCamp.org
 From florinpop17 @ Github
 
   - Beginner, intermediate and advanced project ideas;
-  - Shows a project description/user stories and general guidelines for the project;
-  - You must implement everything yourself.
+    Shows a project description/user stories and general guidelines for the project;
+    You must implement everything yourself.
+    The most advanced projects are complete applications (frontend + backend).
 
 ---
 
@@ -78,7 +81,6 @@ From florinpop17 @ Github
 [filesignatures.net](https://filesignatures.net/index.php?page=all)
 - To find out filetypes by signature in the first bytes (usually 4 to 8 bytes)
 
-
 ---
 
 ## Tools related
@@ -87,14 +89,12 @@ From florinpop17 @ Github
 ### Docker
 #### Docker Security
 
-[https://www.sidechannel.blog/boas-praticas-de-seguranca-usando-o-docker/index.html](Boas práticas de segurança usando o Docker)
-From [Fran Lauriano](https://www.linkedin.com/in/franlauriano/)
+[Boas práticas de segurança usando o Docker](https://www.sidechannel.blog/boas-praticas-de-seguranca-usando-o-docker/index.html)
+From Fran Lauriano
 
 ---
 
 ## Language specific stuff
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
-
 ---
 
 ### Go
