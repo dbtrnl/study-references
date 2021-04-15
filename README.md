@@ -8,15 +8,24 @@ It will be constantly updated and improved.
 ## Index 
 - [Computer Science in general](#computer-science-in-general)
   - [Zines](#zines)
+  
 - [Project Ideas](#project-ideas)
+
+- [InfoSec](#infosec)
+  - [Forensics](#forensics)
+  
+- [Tools related](#tools-related)
+  - [Docker](#docker)
+  
 - [Language specific stuff](#language-specific-stuff)
   - [Go](#go)
   - [Java](#java)
     - [Other Java stuff](#other-java-stuff)
+  - [Javascript](#javascript)
 
 ---
 
-### Computer Science in general
+## Computer Science in general
 
 P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/)  
 Basics about memory, how processors work, etc...  
@@ -35,14 +44,14 @@ Basics about memory, how processors work, etc...
   - [Languages High and Low](https://pmihaylov.com/languages-high-and-low/)
   - [The build process of programming languages](https://pmihaylov.com/the-build-process-of-programming-languages/)
 
-#### Zines
+### Zines
 - [Wizard zines](https://wizardzines.com)
   - Zines about specific topics in computer science, networking, etc...
 - [Free posters](https://wizardzines.com/#posters)
 
 ---
 
-### Project Ideas
+## Project Ideas
 Out of ideas? Don't know where to start? Check out the links below.
 
 [Javascript Projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)  
@@ -58,11 +67,25 @@ From florinpop17 @ Github
 
 ---
 
-### Information Security
+## Infosec
 
 [What is a Buffer Overflow attack - and how to stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)  
 [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 
+### Forensics
+[filesignatures.net](https://filesignatures.net/index.php?page=all)
+- To find out filetypes by signature in the first bytes (usually 4 to 8 bytes)
+
+
+---
+
+## Tools related
+
+### Docker
+#### Docker Security
+
+[https://www.sidechannel.blog/boas-praticas-de-seguranca-usando-o-docker/index.html](Boas práticas de segurança usando o Docker)
+From [Fran Lauriano](https://www.linkedin.com/in/franlauriano/)
 
 ---
 
@@ -103,3 +126,12 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 
 [String Performance Hints](https://www.baeldung.com/java-string-performance)
   - Analysing the performance of string methods.
+
+---
+
+### Javascript
+#### Linting
+
+[JavaScript Standard Style: melhores práticas em JS](https://blog.geekhunter.com.br/javascript-standard-style)
+[eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript)
+[ESLint with Typescript](https://blog.geekhunter.com.br/eslint-typescript-tutorial/)
