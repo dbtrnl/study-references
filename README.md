@@ -21,7 +21,13 @@ It will be constantly updated and improved.
 
 ---
 
-## Computer Science in general [↩](#index)
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
+## Computer Science in general
 
 P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/)  
 Basics about memory, how processors work, etc...  
@@ -40,14 +46,14 @@ Basics about memory, how processors work, etc...
   - [Languages High and Low](https://pmihaylov.com/languages-high-and-low/)
   - [The build process of programming languages](https://pmihaylov.com/the-build-process-of-programming-languages/)
 
-### Zines [↩](#index)
+### Zines
 - [Wizard zines](https://wizardzines.com)
   - Zines about specific topics in computer science, networking, etc...
 - [Free posters](https://wizardzines.com/#posters)
 
 ---
 
-## Project Ideas [↩](#index)
+## Project Ideas
 Out of ideas? Don't know where to start? Check out the links below.
 
 [Javascript Projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)  
@@ -63,7 +69,7 @@ From florinpop17 @ Github
 
 ---
 
-## Infosec [↩](#index)
+## Infosec
 
 [What is a Buffer Overflow attack - and how to stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)  
 [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
@@ -75,7 +81,7 @@ From florinpop17 @ Github
 
 ---
 
-## Tools related [↩](#index)
+## Tools related
 
 ### Docker
 #### Docker Security
@@ -85,11 +91,11 @@ From [Fran Lauriano](https://www.linkedin.com/in/franlauriano/)
 
 ---
 
-## Language specific stuff [↩](#index)
+## Language specific stuff
 
 ---
 
-### Go [↩](#index)
+### Go
 
 [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/)  
 From Preslav Mihaylov @ pmihaylov.com
@@ -102,7 +108,7 @@ From Preslav Mihaylov @ pmihaylov.com
 
 ---
 
-### Java [↩](#index)
+### Java
 
 Interesting short Linkedin posts (in Portuguese)  
 From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
@@ -115,7 +121,7 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
   - [O que é Spring Boot?](https://www.linkedin.com/posts/pedrocavalero_springboot-java-springframework-activity-6776905016545443841-cmso)
   - [O que é Spring Boot?](https://www.linkedin.com/posts/pedrocavalero_springboot-java-springframework-activity-6776904954658488320-xhws)
 
-#### Other Java stuff [↩](#index)
+#### Other Java stuff
 
 [Springboot e Docker](https://carloshenriquereis-17318.medium.com/spring-boot-e-docker-2cafaa0f3e1a)
   - Deploy of a Spring Boot application using Tesseract OCR to return the text in a given image.
@@ -125,7 +131,7 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 
 ---
 
-### Javascript [↩](#index)
+### Javascript
 #### Linting
 
 [JavaScript Standard Style: melhores práticas em JS](https://blog.geekhunter.com.br/javascript-standard-style)
