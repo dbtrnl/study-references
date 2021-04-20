@@ -13,6 +13,8 @@ It will be constantly updated and improved.
   * [Infosec in general](#infosec-in-general)
   * [Case studies](#case-studies)
   * [Specific topics](#specific-topics)
+- [Forensics](#forensics)
+  * [Data recovery](#data-recovery)
 - [Tools related](#tools-related)
   * [Docker](#docker)
 - [Language specific stuff](#language-specific-stuff)
@@ -24,7 +26,7 @@ It will be constantly updated and improved.
 ---
 
 ## Computer Science in general
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 P Mihaylov - [The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/)  
 Basics about memory, how processors work, etc...
@@ -45,7 +47,7 @@ Must read for anyone curious about how stuff works in the lower levels.
   + [The build process of programming languages](https://pmihaylov.com/the-build-process-of-programming-languages/)
 
 ### Zines
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 [Wizard zines](https://wizardzines.com)
   * Zines about specific topics in computer science, networking, etc...
@@ -55,7 +57,7 @@ Must read for anyone curious about how stuff works in the lower levels.
 ---
 
 ## Project Ideas
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 Out of ideas? Don't know where to start? Check out the links below.
 
@@ -74,7 +76,7 @@ From florinpop17 @ Github
 ---
 
 ## Infosec
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 ### Infosec general
 [tl;dr sec](https://tldrsec.com)
@@ -91,8 +93,28 @@ From florinpop17 @ Github
 
 ---
 
+## Forensics
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
+
+### Data recovery
+
+[Data Recovery basics @ help.ubuntu.com](https://help.ubuntu.com/community/DataRecovery)
+  * Lists the most common tools and utilities used for data recovery
+
+### Forensics Tools
+[TestDisk and PhotoRec](https://www.cgsecurity.org/wiki/Main_Page)
+  * CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
+    + TestDisk allows to check integrity of drives and rebuild partitions
+    + PhotoRec is for carving data (specially proprietary file formats) from disk images
+      * Any code files (.java, .js, .h, etc) are extracted as well, but as internally they are just plaintext (no file headers), they probably won't have the correct extension.
+[Testcases for TestDisk and PhotoRec](https://www.cgsecurity.org/wiki/TestDisk_and_PhotoRec_in_various_digital_forensics_testcase#Test_your_knowledge)
+  * [Testing images](http://dftt.sourceforge.net/)
+    + Download these images to practice your skills
+
+---
+
 ## Tools related
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 ### Docker
 #### Docker Security
@@ -106,7 +128,7 @@ From Fran Lauriano
 ---
 
 ### Go
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/)  
 From Preslav Mihaylov @ pmihaylov.com
@@ -120,7 +142,7 @@ From Preslav Mihaylov @ pmihaylov.com
 ---
 
 ### Java
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 Interesting short Linkedin posts (in Portuguese)  
 From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
@@ -134,7 +156,7 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
   * [O que é Spring Boot?](https://www.linkedin.com/posts/pedrocavalero_springboot-java-springframework-activity-6776904954658488320-xhws)
 
 #### Other Java stuff
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 [Springboot e Docker](https://carloshenriquereis-17318.medium.com/spring-boot-e-docker-2cafaa0f3e1a)
   * Deploy of a Spring Boot application using Tesseract OCR to return the text in a given image.
@@ -145,7 +167,7 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 ---
 
 ### Javascript
-<div align="right"><b><a href="#index">↥ back to top</a></b></div>
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 #### Linting
 
