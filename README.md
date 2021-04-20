@@ -106,8 +106,9 @@ From florinpop17 @ Github
   * CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
     + TestDisk allows to check integrity of drives and rebuild partitions
     + PhotoRec is for carving data (specially proprietary file formats) from disk images
-      * Any code files (.java, .js, .h, etc) are extracted as well, but as internally they are just plaintext (no file headers), they probably won't have the correct extension.
-[Testcases for TestDisk and PhotoRec](https://www.cgsecurity.org/wiki/TestDisk_and_PhotoRec_in_various_digital_forensics_testcase#Test_your_knowledge)
+      * Any code files (.java, .js, .h, etc) are extracted as well, but as internally they are just plaintext (no file headers), they probably won't have the correct extension.  
+
+[Testcases for TestDisk and PhotoRec](https://www.cgsecurity.org/wiki/TestDisk_and_PhotoRec_in_various_digital_forensics_testcase)
   * [Testing images](http://dftt.sourceforge.net/)
     + Download these images to practice your skills
 
@@ -125,8 +126,6 @@ From Fran Lauriano
 ---
 
 ## Language specific stuff
----
-
 ### Go
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
