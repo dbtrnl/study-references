@@ -22,6 +22,8 @@ It will be constantly updated and improved.
   * [Java](#java)
     + [Other Java stuff](#other-java-stuff)
   * [Javascript](#javascript)
+- [Coding Practices](#coding-practices)
+  * [TDD](#tdd)
 
 ---
 
@@ -173,3 +175,13 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 [JavaScript Standard Style: melhores práticas em JS](https://blog.geekhunter.com.br/javascript-standard-style)
 [eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript)
 [ESLint with Typescript](https://blog.geekhunter.com.br/eslint-typescript-tutorial/)
+
+---
+
+### Coding Practices
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
+
+#### TDD
+
+[Test Smell Examples](https://testsmells.org/pages/testsmellexamples.html)
+  * Examples of badly written tests using Test/Behavior Driven Development (using Java)
