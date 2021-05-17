@@ -26,6 +26,7 @@ It will be constantly updated and improved.
 - [Coding Practices](#coding-practices)
   * [Good/Bad Practices](#good-bad-practices)
   * [TDD](#tdd)
+- [Newsletters](#newsletters)
 
 ---
 
@@ -95,7 +96,8 @@ Case study about Open-source Intelligence and a security vunlnerability in an Ai
 
 ### Vulnerabilities
 [SQL Injection Tutorial - What is SQL Injection and How to Prevent it](https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/)
-Title self explanatory.
+
+[Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It](https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/)
 
 ### Specific topics
 [What is a Buffer Overflow attack - and how to stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)
@@ -141,6 +143,9 @@ From Fran Lauriano
 ## Language specific stuff
 ### Go
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
+
+[Run Go](https://medium.com/rungo)
+- A Go-to guide for learning the Go programming language
 
 [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/) From Preslav Mihaylov @ pmihaylov.com
 
@@ -204,3 +209,20 @@ Examples of bad CSS code explained and with corrections. (In *Portuguese*)
 
 [Test Smell Examples](https://testsmells.org/pages/testsmellexamples.html)
 Examples of badly written tests using Test/Behavior Driven Development (using Java)
+
+---
+
+### Newsletters
+
+#### English
+[SANS.org](https://www.sans.org/newsletters/)
+- Infosec newslettrs
+[tl;dr sec](https://tldrsec.com)
+Short and quick posts about the newest stuff. Exploits, tools, etc
+  * Has a good newsletter
+[Bug Bounty Explained newsletter](https://mailing.bugbountyexplained.com/news1)
+- In-depth explanations about bugs reported in bug bounty programs
+
+#### Portuguese
+[Newsletter Luiz Tools](https://www.luiztools.com.br/)
+- JS, NodeJS, Typescript, etc
