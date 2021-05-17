@@ -12,7 +12,7 @@ It will be constantly updated and improved.
 - [InfoSec](#infosec)
   * [Infosec in general](#infosec-in-general)
   * [Case studies](#case-studies)
-  * [Code injection](#code-injection)
+  * [Vulnerabilities](#vulnerabilities)
   * [Specific topics](#specific-topics)
 - [Forensics](#forensics)
   * [Data recovery](#data-recovery)
@@ -64,10 +64,10 @@ Zines about specific topics in computer science, networking, etc...
 
 Out of ideas? Don't know where to start? Check out the links below.
 
-[Javascript Projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/) - From FreeCodeCamp.org
+[Javascript Projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/) - From FreeCodeCamp.org  
 Beginner projects with HTML, CSS and vanilla Javascript/React/Typescript.
 
-[app-ideas](https://github.com/florinpop17/app-ideas) - From florinpop17 @ Github
+[app-ideas](https://github.com/florinpop17/app-ideas) - From florinpop17 @ Github  
 Beginner, intermediate and advanced project ideas;
   * Shows a project description/user stories and general guidelines for the project;
   * You must implement everything yourself.
@@ -93,7 +93,7 @@ Short and quick posts about the newest stuff. Exploits, tools, etc
 [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 Case study about Open-source Intelligence and a security vunlnerability in an Airline website.
 
-### Code Injection
+### Vulnerabilities
 [SQL Injection Tutorial - What is SQL Injection and How to Prevent it](https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/)
 Title self explanatory.
 
@@ -111,7 +111,7 @@ To find out filetypes by signature in the first bytes (usually 4 to 8 bytes)
 
 ### Data recovery
 
-[Data Recovery basics @ help.ubuntu.com](https://help.ubuntu.com/community/DataRecovery)
+[Data Recovery basics](https://help.ubuntu.com/community/DataRecovery) @ help.ubuntu.com
 Lists the most common tools and utilities used for data recovery
 
 ### Forensics Tools
