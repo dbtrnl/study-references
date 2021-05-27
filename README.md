@@ -8,21 +8,34 @@ It will be constantly updated and improved.
 ## Index 
 - [Computer Science in general](#computer-science-in-general)
   * [Zines](#zines)
+
+
 - [Project Ideas](#project-ideas)
+
+
 - [InfoSec](#infosec)
   * [Infosec in general](#infosec-in-general)
   * [Case studies](#case-studies)
   * [Vulnerabilities](#vulnerabilities)
   * [Specific topics](#specific-topics)
+
+
 - [Forensics](#forensics)
   * [Data recovery](#data-recovery)
+
+
 - [Tools related](#tools-related)
   * [Docker](#docker)
+  * [Nginx](#nginx)
+
+
 - [Language specific stuff](#language-specific-stuff)
-  * [Go](#go)
+  * [Golang](#golang)
   * [Java](#java)
     + [Other Java stuff](#other-java-stuff)
   * [Javascript](#javascript)
+
+
 - [Coding Practices](#coding-practices)
   * [Good/Bad Practices](#good-bad-practices)
   * [TDD](#tdd)
@@ -33,8 +46,9 @@ It will be constantly updated and improved.
 ## Computer Science in general
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
-[The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/) by Preslav Mihaylov
-Basics about memory, how processors work, etc...
+[The basics you won't learn in the basics](https://pmihaylov.com/category/the-basics-you-wont-learn-in-the-basics/) - by Preslav Mihaylov
+
+Basics about memory, how processors work, etc...  
 Must read for anyone curious about how stuff works in the lower levels.  
 
 12 Articles in total (in the order they were posted):  
@@ -66,13 +80,13 @@ Zines about specific topics in computer science, networking, etc...
 Out of ideas? Don't know where to start? Check out the links below.
 
 [Javascript Projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/) - From FreeCodeCamp.org  
-Beginner projects with HTML, CSS and vanilla Javascript/React/Typescript.
+* Beginner projects with HTML, CSS and vanilla Javascript/React/Typescript.
 
 [app-ideas](https://github.com/florinpop17/app-ideas) - From florinpop17 @ Github  
-Beginner, intermediate and advanced project ideas;
-  * Shows a project description/user stories and general guidelines for the project;
-  * You must implement everything yourself.
-  * The most advanced projects are complete applications (frontend + backend).
+* Beginner, intermediate and advanced project ideas;
+  + Shows a project description/user stories and general guidelines for the project;
+  + You must implement everything yourself.
+  + The most advanced projects are complete applications (frontend + backend).
 
 [Back-end Challenges](https://github.com/CollabCodeTech/backend-challenges)
   * Repo with Back-end interview tests and challenges in different stacks/programming languages (mostly in Portuguese though)
@@ -87,24 +101,26 @@ Beginner, intermediate and advanced project ideas;
 
 ### Infosec general
 [tl;dr sec](https://tldrsec.com)
-Short and quick posts about the newest stuff. Exploits, tools, etc
-  * Has a good newsletter
+* Short and quick posts about the newest stuff. Exploits, tools, etc
+  + Has a good newsletter
 
 ### Case studies
 [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
-Case study about Open-source Intelligence and a security vunlnerability in an Airline website.
+* Case study about Open-source Intelligence and a security vunlnerability in an Airline website.
 
 ### Vulnerabilities
 [SQL Injection Tutorial - What is SQL Injection and How to Prevent it](https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/)
+* SQL Injection basics
 
 [Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It](https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/)
+* CSRF basics
 
-### Specific topics
+### Other
 [What is a Buffer Overflow attack - and how to stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)
-Technical explanation of a buffer overflow.
+* Technical explanation of a buffer overflow.
 
 [filesignatures.net](https://filesignatures.net/index.php?page=all)
-To find out filetypes by signature in the first bytes (usually 4 to 8 bytes)
+* To find out filetypes by signature in the first bytes (usually 4 to 8 bytes)
 
 ---
 
@@ -114,7 +130,7 @@ To find out filetypes by signature in the first bytes (usually 4 to 8 bytes)
 ### Data recovery
 
 [Data Recovery basics](https://help.ubuntu.com/community/DataRecovery) @ help.ubuntu.com
-Lists the most common tools and utilities used for data recovery
+* Lists the most common tools and utilities used for data recovery
 
 ### Forensics Tools
 [TestDisk and PhotoRec](https://www.cgsecurity.org/wiki/Main_Page)
@@ -135,17 +151,21 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 ### Docker
 #### Docker Security
 
-[Boas práticas de segurança usando o Docker](https://www.sidechannel.blog/boas-praticas-de-seguranca-usando-o-docker/index.html)
-From Fran Lauriano
+[Boas práticas de segurança usando o Docker](https://www.sidechannel.blog/boas-praticas-de-seguranca-usando-o-docker/index.html) - From Fran Lauriano
+* Good security practices with Docker
+
+### Nginx
+[The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/) - From FreeCodeCamp.org
+* Lenghty nginx guide
 
 ---
 
 ## Language specific stuff
-### Go
+### Golang
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 [Run Go](https://medium.com/rungo)
-- A Go-to guide for learning the Go programming language
+* A Go-to guide for learning the Go programming language
 
 [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/) From Preslav Mihaylov @ pmihaylov.com
 
@@ -176,10 +196,10 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 [Springboot e Docker](https://carloshenriquereis-17318.medium.com/spring-boot-e-docker-2cafaa0f3e1a)
-Deploy of a Spring Boot application using Tesseract OCR to return the text in a given image.
+* Deploy of a Spring Boot application using Tesseract OCR to return the text in a given image.
 
 [String Performance Hints](https://www.baeldung.com/java-string-performance)
-Analysing the performance of string methods.
+* Analysing the performance of string methods.
 
 ---
 
@@ -200,15 +220,15 @@ Analysing the performance of string methods.
 ### Good/Bad practices
 
 [HTMHell - Markup from hell](https://www.htmhell.dev/)
-Examples of bad HTML explained and how to fix them.
+* Examples of bad HTML explained and how to fix them.
 
 [CSS Hell - Collection of common CSS mistakes, and how to fix them](https://csshell.dev/)
-Examples of bad CSS code explained and with corrections. (In *Portuguese*)
+* Examples of bad CSS code explained and with corrections. (In *Portuguese*)
 
 ### TDD
 
 [Test Smell Examples](https://testsmells.org/pages/testsmellexamples.html)
-Examples of badly written tests using Test/Behavior Driven Development (using Java)
+* Examples of badly written tests using Test/Behavior Driven Development (using Java)
 
 ---
 
@@ -216,13 +236,13 @@ Examples of badly written tests using Test/Behavior Driven Development (using Ja
 
 #### English
 [SANS.org](https://www.sans.org/newsletters/)
-- Infosec newslettrs
+* Infosec newslettrs
 [tl;dr sec](https://tldrsec.com)
-Short and quick posts about the newest stuff. Exploits, tools, etc
+* Short and quick posts about the newest stuff. Exploits, tools, etc
   * Has a good newsletter
 [Bug Bounty Explained newsletter](https://mailing.bugbountyexplained.com/news1)
-- In-depth explanations about bugs reported in bug bounty programs
+* In-depth explanations about bugs reported in bug bounty programs
 
 #### Portuguese
 [Newsletter Luiz Tools](https://www.luiztools.com.br/)
-- JS, NodeJS, Typescript, etc
+* JS, NodeJS, Typescript, etc
