@@ -26,6 +26,7 @@ It will be constantly updated and improved.
 
 - [Tools related](#tools-related)
   * [Docker](#docker)
+  * [Kubernetes](#kubernetes)
   * [Nginx](#nginx)
 
 
@@ -88,11 +89,20 @@ Out of ideas? Don't know where to start? Check out the links below.
   + You must implement everything yourself.
   + The most advanced projects are complete applications (frontend + backend).
 
+[dev-practice](https://github.com/alinebastos/dev-practice)
+* Challenges and app/games ideas, separated by programming language.
+
+[desafios-de-ti](https://github.com/wbraganca/desafios-de-ti)
+* Back-end/Front-end interviews/challenges (in Portuguese).
+
 [Back-end Challenges](https://github.com/CollabCodeTech/backend-challenges)
-  * Repo with Back-end interview tests and challenges in different stacks/programming languages (mostly in Portuguese though)
+* Repo with Back-end interview tests and challenges in different stacks/programming languages (mostly in Portuguese though)
 
 [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)
-  * Repo with Front-end interview tests and challenges in different stacks/programming languages (mostly in Portuguese though)
+* Repo with Front-end interview tests and challenges in different stacks/programming languages (mostly in Portuguese though)
+
+[Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)
+* Repo with fullstack interview tests and challanges (mostly in Portuguese)
 
 ---
 
@@ -153,6 +163,10 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 
 [Boas práticas de segurança usando o Docker](https://www.sidechannel.blog/boas-praticas-de-seguranca-usando-o-docker/index.html) - From Fran Lauriano
 * Good security practices with Docker
+
+### Kubernetes
+[The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) - From FreeCodeCamp.org
+* Kubernetes handbook, good for using as reference.
 
 ### Nginx
 [The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/) - From FreeCodeCamp.org
