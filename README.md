@@ -14,14 +14,16 @@ It will be constantly updated and improved.
 
 
 - [InfoSec](#infosec)
-  * [Infosec in general](#infosec-in-general)
-  * [Case studies](#case-studies)
-  * [Vulnerabilities](#vulnerabilities)
-  * [Specific topics](#specific-topics)
+  * [Infosec - General](#infosec%20-%20general)
+  * [Infosec - Case studies](#infosec%20-%20case-studies)
+  * [Infosec - Other](#infosec%20-%20other)
+  * [Infosec - Vulnerabilities](#infosec%20-%20vulnerabilities)
+  * [Infosec - tools](#infosec%20-%20tools)
 
 
 - [Forensics](#forensics)
-  * [Data recovery](#data-recovery)
+  * [Forensics - Data recovery](#forensics%20-%20data-recovery)
+  * [Forensics - Tools](#forensics%20-%20tools)
 
 
 - [Tools related](#tools-related)
@@ -32,14 +34,19 @@ It will be constantly updated and improved.
 
 - [Language specific stuff](#language-specific-stuff)
   * [Golang](#golang)
+
   * [Java](#java)
     + [Other Java stuff](#other-java-stuff)
+
   * [Javascript](#javascript)
+    + [JS - Arrays](#js%20-%20arrays)
+    + [JS - Linting](#js%20-%20linting)
 
 
 - [Coding Practices](#coding-practices)
   * [Good/Bad Practices](#good-bad-practices)
   * [TDD](#tdd)
+  
 - [Newsletters](#newsletters)
 
 ---
@@ -109,40 +116,46 @@ Out of ideas? Don't know where to start? Check out the links below.
 ## Infosec
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
-### Infosec general
+### Infosec - General
 [tl;dr sec](https://tldrsec.com)
 * Short and quick posts about the newest stuff. Exploits, tools, etc
   + Has a good newsletter
 
-### Case studies
+### Infosec - Case studies
 [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)
 * Case study about Open-source Intelligence and a security vunlnerability in an Airline website.
 
-### Vulnerabilities
-[SQL Injection Tutorial - What is SQL Injection and How to Prevent it](https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/)
-* SQL Injection basics
-
-[Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It](https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/)
-* CSRF basics
-
-### Other
+### Infosec - Other
 [What is a Buffer Overflow attack - and how to stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)
 * Technical explanation of a buffer overflow.
 
 [filesignatures.net](https://filesignatures.net/index.php?page=all)
 * To find out filetypes by signature in the first bytes (usually 4 to 8 bytes)
 
+### Infosec - Vulnerabilities
+[SQL Injection Tutorial - What is SQL Injection and How to Prevent it](https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/)
+* SQL Injection basics
+
+[Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It](https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/)
+* CSRF basics
+
+### Infosec - Tools
+[osquery](osquery.io/)
+* "Query your devices like a database"
+  + "Osquery uses basic SQL commands to leverage a relational data-model to describe a device."
+  + For MacOS, Windows and Linux
+
 ---
 
 ## Forensics
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
-### Data recovery
+### Forensics - Data recovery
 
 [Data Recovery basics](https://help.ubuntu.com/community/DataRecovery) @ help.ubuntu.com
 * Lists the most common tools and utilities used for data recovery
 
-### Forensics Tools
+### Forensics - Tools
 [TestDisk and PhotoRec](https://www.cgsecurity.org/wiki/Main_Page)
 CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
   * TestDisk allows to check integrity of drives and rebuild partitions
@@ -178,8 +191,12 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 ### Golang
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
+[Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
+* Youtube playlist with Golang tutorials (in Portuguese)
+
 [Run Go](https://medium.com/rungo)
 * A Go-to guide for learning the Go programming language
+
 
 [gRPC With Go Crash Course](https://pmihaylov.com/grpc-with-go-crash-course/) From Preslav Mihaylov @ pmihaylov.com
 
@@ -220,7 +237,11 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 ### Javascript
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
-#### Linting
+#### JS - Arrays
+
+[The JavaScript Array Handbook – JS Array Methods Explained with Examples](https://www.freecodecamp.org/news/the-javascript-array-handbook/)
+
+#### JS - Linting
 
 [JavaScript Standard Style: melhores práticas em JS](https://blog.geekhunter.com.br/javascript-standard-style)
 [eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript)
