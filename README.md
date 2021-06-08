@@ -8,10 +8,9 @@ It will be constantly updated and improved.
 ## Index 
 - [Computer Science in general](#computer-science-in-general)
   * [Zines](#zines)
-
+  * [Tools](#tools)
 
 - [Project Ideas](#project-ideas)
-
 
 - [InfoSec](#infosec)
   * [Infosec - General](#infosec%20-%20general)
@@ -20,17 +19,14 @@ It will be constantly updated and improved.
   * [Infosec - Vulnerabilities](#infosec%20-%20vulnerabilities)
   * [Infosec - tools](#infosec%20-%20tools)
 
-
 - [Forensics](#forensics)
   * [Forensics - Data recovery](#forensics%20-%20data-recovery)
   * [Forensics - Tools](#forensics%20-%20tools)
-
 
 - [Tools related](#tools-related)
   * [Docker](#docker)
   * [Kubernetes](#kubernetes)
   * [Nginx](#nginx)
-
 
 - [Language specific stuff](#language-specific-stuff)
   * [Golang](#golang)
@@ -41,7 +37,6 @@ It will be constantly updated and improved.
   * [Javascript](#javascript)
     + [JS - Arrays](#js%20-%20arrays)
     + [JS - Linting](#js%20-%20linting)
-
 
 - [Coding Practices](#coding-practices)
   * [Good/Bad Practices](#good-bad-practices)
@@ -79,6 +74,16 @@ Must read for anyone curious about how stuff works in the lower levels.
 [Wizard zines](https://wizardzines.com)
 Zines about specific topics in computer science, networking, etc...
  * Some are free (see [Free posters](https://wizardzines.com/#posters)) but most are paid.
+
+### Tools
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
+
+[IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+* Good to understand how floats are actually stored in memory and understand why `0.1 + 0.2 != 0.3` is `false` in languages such as Python and Javascript.
+
+[regexr.com](https://regexr.com/)
+* Good Regex tool for Javascript/PHP, real-time feedback.
+
 
 ---
 
@@ -188,6 +193,7 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 ---
 
 ## Language specific stuff
+
 ### Golang
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
@@ -281,3 +287,5 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 #### Portuguese
 [Newsletter Luiz Tools](https://www.luiztools.com.br/)
 * JS, NodeJS, Typescript, etc
+
+---
