@@ -1,4 +1,4 @@
-## study-references
+
 
 Repo with somewhat curated content about programming languages and computer science in general;  
 It will be constantly updated and improved.
@@ -7,42 +7,46 @@ It will be constantly updated and improved.
 
 ## Index 
 - [Computer Science in general](#computer-science-in-general)
-  * [Zines](#zines)
-  * [Tools](#tools)
-
+  - [Zines](#zines)
+  - [Tools](#tools)
+  
+- [Networking](#networking)
+  - [Protocols](#protocols)
+  
 - [Project Ideas](#project-ideas)
 
-- [InfoSec](#infosec)
-  * [Infosec - General](#infosec%20-%20general)
-  * [Infosec - Case studies](#infosec%20-%20case-studies)
-  * [Infosec - Other](#infosec%20-%20other)
-  * [Infosec - Vulnerabilities](#infosec%20-%20vulnerabilities)
-  * [Infosec - tools](#infosec%20-%20tools)
-
+- [Infosec](#infosec)
+  - [Infosec - General](#infosec---general)
+  - [Infosec - Case studies](#infosec---case-studies)
+  - [Infosec - Other](#infosec---other)
+  - [Infosec - Vulnerabilities](#infosec---vulnerabilities)
+  - [Infosec - Tools](#infosec---tools)
+  
 - [Forensics](#forensics)
-  * [Forensics - Data recovery](#forensics%20-%20data-recovery)
-  * [Forensics - Tools](#forensics%20-%20tools)
-
+  - [Forensics - Data recovery](#forensics---data-recovery)
+  - [Forensics - Tools](#forensics---tools)
+  
 - [Tools related](#tools-related)
-  * [Docker](#docker)
-  * [Kubernetes](#kubernetes)
-  * [Nginx](#nginx)
-
+  - [Docker](#docker)
+    - [Docker Security](#docker-security)
+  - [Kubernetes](#kubernetes)
+  - [Nginx](#nginx)
+  
 - [Language specific stuff](#language-specific-stuff)
-  * [Golang](#golang)
-
-  * [Java](#java)
-    + [Other Java stuff](#other-java-stuff)
-
-  * [Javascript](#javascript)
-    + [JS - Arrays](#js%20-%20arrays)
-    + [JS - Linting](#js%20-%20linting)
-
+  - [Golang](#golang)
+  - [Java](#java)
+    - [Other Java stuff](#other-java-stuff)
+  - [Javascript](#javascript)
+    - [JS - Arrays](#js---arrays)
+    - [JS - Linting](#js---linting)
+  
 - [Coding Practices](#coding-practices)
-  * [Good/Bad Practices](#good-bad-practices)
-  * [TDD](#tdd)
+  - [Good/Bad practices](#goodbad-practices)
+  - [TDD](#tdd)
   
 - [Newsletters](#newsletters)
+  - [English](#english)
+  - [Portuguese](#portuguese)
 
 ---
 
@@ -84,6 +88,13 @@ Zines about specific topics in computer science, networking, etc...
 [regexr.com](https://regexr.com/)
 * Good Regex tool for Javascript/PHP, real-time feedback.
 
+---
+
+## Networking
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
+
+### Protocols
+[TCP vs UDP – Which Protocol is Faster?](https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/)
 
 ---
 
@@ -193,9 +204,9 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 ---
 
 ## Language specific stuff
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 ### Golang
-<div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 * Youtube playlist with Golang tutorials (in Portuguese)
@@ -265,6 +276,9 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 
 [CSS Hell - Collection of common CSS mistakes, and how to fix them](https://csshell.dev/)
 * Examples of bad CSS code explained and with corrections. (In *Portuguese*)
+
+[Ternary operator in Go](https://nilisnotnull.blogspot.com/2013/11/ternary-operator-in-go.html)
+* Ugly implementation of a ternary using map (please don't do that)
 
 ### TDD
 
