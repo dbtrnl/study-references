@@ -29,6 +29,7 @@ It will be constantly updated and improved.
 - [Tools related](#tools-related)
   - [Docker](#docker)
     - [Docker Security](#docker-security)
+  - [Git](#git)
   - [Kubernetes](#kubernetes)
   - [Nginx](#nginx)
   
@@ -192,6 +193,11 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 
 [Boas práticas de segurança usando o Docker](https://www.sidechannel.blog/boas-praticas-de-seguranca-usando-o-docker/index.html) - From Fran Lauriano
 * Good security practices with Docker
+
+### Git
+[Boost Your Programming Skills by Reading Git's Code](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/) - From FreeCodeCamp.org
+* About Git's first commit back in 2005, some C basics and explanations about Git's internals.
+  * See also [baby-git](https://bitbucket.org/jacobstopak/baby-git) a commented version of the first commit.
 
 ### Kubernetes
 [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) - From FreeCodeCamp.org
