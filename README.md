@@ -40,10 +40,12 @@ It will be constantly updated and improved.
   - [Javascript](#javascript)
     - [JS - Arrays](#js---arrays)
     - [JS - Linting](#js---linting)
+    - [JS - Build Tools](#js---build-tools)
   
 - [Coding Practices](#coding-practices)
   - [Good/Bad practices](#goodbad-practices)
   - [TDD](#tdd)
+  - [Logging](#logging)
   
 - [Newsletters](#newsletters)
   - [English](#english)
@@ -95,7 +97,10 @@ Zines about specific topics in computer science, networking, etc...
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
 ### Protocols
+
 [TCP vs UDP – Which Protocol is Faster?](https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/)
+
+[What is the TCP/IP Model? Layers and Protocols Explained](https://www.freecodecamp.org/news/what-is-tcp-ip-layers-and-protocols-explained/)
 
 ---
 
@@ -270,6 +275,10 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 [eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript)
 [ESLint with Typescript](https://blog.geekhunter.com.br/eslint-typescript-tutorial/)
 
+#### JS - Build tools
+
+[Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+
 ---
 
 ## Coding Practices
@@ -290,6 +299,15 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 
 [Test Smell Examples](https://testsmells.org/pages/testsmellexamples.html)
 * Examples of badly written tests using Test/Behavior Driven Development (using Java)
+
+### Logging
+
+[To Log, or Not to Log — An Alternative Strategy to Make Loggers Your Friends](https://www.freecodecamp.org/news/how-to-use-logs-effectively-in-your-code/)
+
+[The problem with logging](https://blog.codinghorror.com/the-problem-with-logging/)
+
+[Do not log](https://sobolevn.me/2020/03/do-not-log)
+
 
 ---
 
