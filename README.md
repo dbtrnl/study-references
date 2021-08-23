@@ -1,11 +1,9 @@
-
-
 Repo with somewhat curated content about programming languages and computer science in general;  
 It will be constantly updated and improved.
 
 ---
-
-## Index 
+## Index
+- [Index](#index)
 - [Computer Science in general](#computer-science-in-general)
   - [Zines](#zines)
   - [Tools](#tools)
@@ -27,11 +25,16 @@ It will be constantly updated and improved.
   - [Forensics - Tools](#forensics---tools)
   
 - [Tools related](#tools-related)
+  - [Bash](#bash)
   - [Docker](#docker)
     - [Docker Security](#docker-security)
   - [Git](#git)
   - [Kubernetes](#kubernetes)
   - [Nginx](#nginx)
+  
+- [Application examples](#application-examples)
+  - [NodeJS](#nodejs)
+  - [Serverless](#serverless)
   
 - [Language specific stuff](#language-specific-stuff)
   - [Golang](#golang)
@@ -40,17 +43,20 @@ It will be constantly updated and improved.
   - [Javascript](#javascript)
     - [JS - Arrays](#js---arrays)
     - [JS - Linting](#js---linting)
-    - [JS - Build Tools](#js---build-tools)
+    - [JS - Build tools](#js---build-tools)
+  - [NodeJS](#nodejs)
   
 - [Coding Practices](#coding-practices)
   - [Good/Bad practices](#goodbad-practices)
   - [TDD](#tdd)
   - [Logging](#logging)
   
+- [Algorithms](#algorithms)
+
 - [Newsletters](#newsletters)
   - [English](#english)
   - [Portuguese](#portuguese)
-
+  
 ---
 
 ## Computer Science in general
@@ -193,6 +199,11 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 ## Tools related
 <div align="right"><b><a href="#index">↥ Index</a></b></div>
 
+### Bash
+
+[Monitorando processos com o htop](https://www.treinaweb.com.br/blog/monitorando-processos-com-o-htop)
+* About **htop**, and it's output explained (in Portuguese)
+
 ### Docker
 #### Docker Security
 
@@ -204,6 +215,9 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 * About Git's first commit back in 2005, some C basics and explanations about Git's internals.
   * See also [baby-git](https://bitbucket.org/jacobstopak/baby-git) a commented version of the first commit.
 
+[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/) - From FreeCodeCamp.org
+* The internals of Git branches (33 min video + full transcript)
+
 ### Kubernetes
 [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) - From FreeCodeCamp.org
 * Kubernetes handbook, good for using as reference.
@@ -211,6 +225,19 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 ### Nginx
 [The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/) - From FreeCodeCamp.org
 * Lenghty nginx guide
+
+---
+
+## Application examples
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
+
+### NodeJS
+[Serverless framework NodeJS examples](https://www.npmjs.com/package/serverless#services)
+* Small application examples, useful for Serverless Framework and NodeJS.
+
+### Serverless
+[serverless/examples](https://github.com/serverless/examples) @ GitHub
+* Serverless framework application examples in various languages (NodeJS, Golang, Python, Ruby, etc)
 
 ---
 
@@ -279,6 +306,11 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 
 [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 
+### NodeJS
+<div align="right"><b><a href="#index">↥ Index</a></b></div>
+
+[JavaScript brief history and ECMAScript(ES6,ES7,ES8,ES9) features](https://madasamy.medium.com/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4)
+
 ---
 
 ## Coding Practices
@@ -308,12 +340,16 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 
 [Do not log](https://sobolevn.me/2020/03/do-not-log)
 
-
 ---
 
-### Newsletters
+## Algorithms
 
-#### English
+[What is binary search](https://www.freecodecamp.org/news/what-is-binary-search/) - From FreeCodeCamp.org
+* About binary search, and an implementation in C++ (in a 1:20 hour video)
+
+## Newsletters
+
+### English
 [SANS.org](https://www.sans.org/newsletters/)
 * Infosec newslettrs
 [tl;dr sec](https://tldrsec.com)
@@ -322,7 +358,7 @@ From [Pedro Cavalero](https://allmylinks.com/pedro-cavalero) @ Linkedin
 [Bug Bounty Explained newsletter](https://mailing.bugbountyexplained.com/news1)
 * In-depth explanations about bugs reported in bug bounty programs
 
-#### Portuguese
+### Portuguese
 [Newsletter Luiz Tools](https://www.luiztools.com.br/)
 * JS, NodeJS, Typescript, etc
 
