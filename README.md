@@ -204,6 +204,9 @@ CLI tools, made by [Christophe GRENIER](https://github.com/cgsecurity)
 [Monitorando processos com o htop](https://www.treinaweb.com.br/blog/monitorando-processos-com-o-htop)
 * About **htop**, and it's output explained (in Portuguese)
 
+[3 must-know Linux commands for text manipulation](https://www.redhat.com/sysadmin/linux-text-manipulation-tools)
+* `grep`, `sed` and `awk` usage, with an example text file.
+
 ### Docker
 #### Docker Security
 
